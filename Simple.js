@@ -11,3 +11,4 @@ for (var i = endPos; i > 0; i--)
 	count = 0;
 	if (check == 2) alert(i);
 }
+//vue
